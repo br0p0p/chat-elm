@@ -1,7 +1,7 @@
 {
     "version": "0.0.0",
     "summary": "Mafia (in Elm)",
-    "repository": "",
+    "repository": "https://github.com/br0p0p/chat-elm.git",
     "license": "BSD3",
     "source-directories": [
         "src"
